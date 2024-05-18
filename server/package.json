@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "An app to manage contacta",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "Darsheel Chudal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
 }
