@@ -1,0 +1,11 @@
+{
+  "name": "contactmanagerapp",
+  "version": "1.0.0",
+  "description": "An app to manage contacta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darsheel Chudal",
+  "license": "ISC"
+}
